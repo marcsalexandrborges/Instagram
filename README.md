@@ -1,19 +1,19 @@
 
 
-# RECRIANDO A PÁGINA INICIAL DO INSTAGRAM
+## Recriando a Página Inicial do Instagram
 
 ![Imagem do Projeto](readme.png)
 
-# DESAFIO DE PROJETO
+### Desafio de Projeto
 
 Nesse projeto você terá o desafio de reconstruir a página de login do Instagram. Para isso, é recomendado o uso de CSS com Flexbox, uma das abordagens de posicionamento de elementos mais utilizadas quando se trata de responsividade. 
 
 
-# ORIENTADORA
+#### Orientadora
 
 Gabriela Pinheiro 
 
-# BOOTCAMP
+#### Bootcamp
 
 Santander Fullstack Developer com a  DIO
 
